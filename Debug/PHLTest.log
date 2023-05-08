@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\mcdli\Documents\Projects\Coding\PHLTest\PHLTest\main.c(167,34): warning C4133: 'function': incompatible types - from 'Character *' to 'Character *'
+C:\Users\mcdli\Documents\Projects\Coding\PHLTest\PHLTest\main.c(168,38): warning C4133: 'function': incompatible types - from 'Character *' to 'Character *'
+C:\Users\mcdli\Documents\Projects\Coding\PHLTest\PHLTest\main.c(169,38): warning C4133: 'function': incompatible types - from 'Character *' to 'Character *'
+C:\Users\mcdli\Documents\Projects\Coding\PHLTest\PHLTest\main.c(170,40): warning C4133: 'function': incompatible types - from 'Character *' to 'Character *'
+C:\Users\mcdli\Documents\Projects\Coding\PHLTest\PHLTest\main.c(164,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PHLTest.vcxproj -> C:\Users\mcdli\Documents\Projects\Coding\PHLTest\PHLTest\Debug\PHLTest.exe
